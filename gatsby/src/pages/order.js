@@ -1,5 +1,9 @@
 import React from 'react';
 
-const OrderPage = () => <div>This is the order Page</div>;
+const OrderPage = () => (
+  <>
+    <p>This is the order Page</p>
+  </>
+);
 
 export default OrderPage;
